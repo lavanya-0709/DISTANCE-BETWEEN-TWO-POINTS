@@ -27,7 +27,7 @@ print("{:.2f}".format(distance))
 ```
   
 ### OUTPUT:
-![alt text](<python ex number 03.png>)
+![alt text](<python ex number 03-1.png>)
 
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
